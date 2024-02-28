@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+#title1{
+color: blue;
+background-color: white;
+}
+#button1{
+    float: right;
+    color: white;
+    background-color: yellowgreen;
+    font-size: 20px;
+}
+#button2{
+    color: white;
+    background-color:red;
+    font-size: 20px;
+}
+#timer{
+    font-size: 50px;
+}
+#score{
+    font-size: 50px;
+    float: right;
+}
